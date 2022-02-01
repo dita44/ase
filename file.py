@@ -12,7 +12,7 @@ Data = [
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
 
-print("\x1b[1m\x1b[31m--- AUTHOR BY : Mostoas ---")
+print("--- AUTHOR BY : Mostoas ---")
 print("--- TOOLS BY : TEAM Mostoas ---")
 print("--- JANGAN ABUSE YA ---")
 print("===================================")
